@@ -1,0 +1,3 @@
+//input : aabccba
+//output : abcba
+
